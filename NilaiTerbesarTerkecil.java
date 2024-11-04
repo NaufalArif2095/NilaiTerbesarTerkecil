@@ -4,9 +4,13 @@
  */
 package PBO1;
 
-/**
- *
- * @author HP
+/*
+ * @author
+ * NAMA    : Naufal Arif Maulana
+ * KELAS   : PBO12
+ * NIM     : 23176026
+ * Deskripsi Program : Program ini berisi program untuk menampilkan 
+ *  Nilai Terbesar Terkecil
  */
 import java.util.Scanner;
 
